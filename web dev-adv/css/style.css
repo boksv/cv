@@ -1,0 +1,131 @@
+.top-container {
+  background-color: #2ab59e;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Source Code Pro', monospace;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: courier, monospace, sans-serif;
+  color: #7f8584;
+}
+
+h2 {
+  font-family: courier, monospace, sans-serif;
+  font-size: 2rem;
+  color: #2ab59e;
+  font-weight: normal;
+  line-height: 2;
+  padding-bottom:10px;
+}
+
+p {
+line-height: 2;}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+h3 {
+  font-family: courier, monospace, sans-serif;
+}
+
+.middle-container {
+
+  margin: 100px 0;
+}
+
+.contact-me{
+
+}
+
+.bottom-container {
+  margin-bottom: 0;
+  background-color: darkgrey;
+  padding: 50px 0 20px;
+}
+
+.web {
+  text-decoration: underline;
+}
+hr {
+  border: dotted #2ab59e 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 230px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 140px;
+  top: 50px;
+}
+.skill-img {
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cry-skill {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.intro {
+width: 30%;
+margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.myButton {
+ background-color:#7892c2;
+ border-radius:28px;
+ border:1px solid #4e6096;
+ display:inline-block;
+ cursor:pointer;
+ color:#ffffff;
+ font-family:Arial;
+ font-size:17px;
+ padding:16px 31px;
+ text-decoration:none;
+ text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+ background-color:#476e9e;
+}
+.myButton:active {
+ position:relative;
+ top:1px;
+}
+
+a {
+  color: black;
+  font-family: monospace;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+.copyright{
+  font-size= 0.75rem;
+  padding: 20px 0;
+}
